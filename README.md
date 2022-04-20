@@ -1,8 +1,8 @@
 # Tela Login
 Projeto Spring Boot que usa Spring Security, BootStrap, Thymeleaf e H2.
 
-- [ ] Spring Boot
-- [ ] Spring Security
+- [X] Spring Boot
+- [X] Spring Security
 - [ ] Thymeleaf
 - [ ] BootStrap
 - [ ] Controle de acesso com users in memory
